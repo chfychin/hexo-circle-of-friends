@@ -1,14 +1,86 @@
 {
   "statistical_data": {
     "friends_num": 68,
-    "active_num": 40,
-    "error_num": 28,
-    "article_num": 36,
-    "last_updated_time": "2026-10-19 15:08:33"
+    "active_num": 42,
+    "error_num": 26,
+    "article_num": 44,
+    "last_updated_time": "2026-10-26 15:15:19"
   },
   "article_data": [
     {
       "floor": 1,
+      "title": "EncoDeck 上手：Windows 上的多品牌耳机控制中心，不用再为切降噪拿起手机",
+      "created": "2026-10-26",
+      "updated": "2026-10-26",
+      "link": "https://blog.zhheo.com/p/g10nqrgd.html",
+      "author": "张洪Heo",
+      "avatar": "https://butterfly.js.org/img/avatar.png"
+    },
+    {
+      "floor": 2,
+      "title": "给 AI 编程限个上下文：把窗口砍到 300k 反而更省",
+      "created": "2026-10-23",
+      "updated": "2026-10-23",
+      "link": "https://blog.zhheo.com/p/rdxftsp4.html",
+      "author": "张洪Heo",
+      "avatar": "https://butterfly.js.org/img/avatar.png"
+    },
+    {
+      "floor": 3,
+      "title": "华为云200块钱能用多少 DeepSeek-V4.1-Flash ？",
+      "created": "2026-10-22",
+      "updated": "2026-10-22",
+      "link": "https://blog.zhheo.com/p/ij44odfx.html",
+      "author": "张洪Heo",
+      "avatar": "https://butterfly.js.org/img/avatar.png"
+    },
+    {
+      "floor": 4,
+      "title": "Hello World",
+      "created": "2026-10-22",
+      "updated": "2026-10-22",
+      "link": "https://blog.ifeng.asia/p/4a17b156.html",
+      "author": "听风小屋",
+      "avatar": "https://blog.ifeng.asia/0_hu11833894316113962980.jpg"
+    },
+    {
+      "floor": 5,
+      "title": "提问的智慧",
+      "created": "2023-11-18",
+      "updated": "2026-10-22",
+      "link": "https://blog.ifeng.asia/p/fb3832f5.html",
+      "author": "听风小屋",
+      "avatar": "https://blog.ifeng.asia/0_hu11833894316113962980.jpg"
+    },
+    {
+      "floor": 6,
+      "title": "狂欢",
+      "created": "2026-10-22",
+      "updated": "2026-10-22",
+      "link": "https://zhongxiaojie.cn/2026/10/2281/",
+      "author": "obaby",
+      "avatar": "https://h4ck.org.cn/wp-content/uploads/2024/02/aboutme-tuya.webp"
+    },
+    {
+      "floor": 7,
+      "title": "博客建站三周年大杂谈",
+      "created": "2026-10-21",
+      "updated": "2026-10-21",
+      "link": "https://blog.starsharbor.com/posts/blog-3rd-anniversary",
+      "author": "星港Star",
+      "avatar": "https://img.starsharbor.com/2024-07-04/04f5467b5ee65.webp"
+    },
+    {
+      "floor": 8,
+      "title": "企鹅相册上手：把QQ空间里十几年的老照片搬回本地",
+      "created": "2026-10-20",
+      "updated": "2026-10-20",
+      "link": "https://blog.zhheo.com/p/b1p1a4z2.html",
+      "author": "张洪Heo",
+      "avatar": "https://butterfly.js.org/img/avatar.png"
+    },
+    {
+      "floor": 9,
       "title": "技术依赖",
       "created": "2026-10-19",
       "updated": "2026-10-19",
@@ -17,7 +89,7 @@
       "avatar": "https://h4ck.org.cn/wp-content/uploads/2024/02/aboutme-tuya.webp"
     },
     {
-      "floor": 2,
+      "floor": 10,
       "title": "闺蜜圈 [v 5.2.30]",
       "created": "2026-10-19",
       "updated": "2026-10-19",
@@ -26,7 +98,7 @@
       "avatar": "https://h4ck.org.cn/wp-content/uploads/2024/02/aboutme-tuya.webp"
     },
     {
-      "floor": 3,
+      "floor": 11,
       "title": "你来啦！[1.44.20] — 正式上线 多端覆盖",
       "created": "2026-10-19",
       "updated": "2026-10-19",
@@ -35,7 +107,7 @@
       "avatar": "https://h4ck.org.cn/wp-content/uploads/2024/02/aboutme-tuya.webp"
     },
     {
-      "floor": 4,
+      "floor": 12,
       "title": "高德地图API没有免费额度了",
       "created": "2026-10-16",
       "updated": "2026-10-16",
@@ -44,7 +116,7 @@
       "avatar": "https://photo.xiangming.site/img/blog_logo.png"
     },
     {
-      "floor": 5,
+      "floor": 13,
       "title": "电动车充满不停，白花我一块钱：从抓包、青龙到微信一句话控制",
       "created": "2026-10-16",
       "updated": "2026-10-16",
@@ -53,7 +125,7 @@
       "avatar": "https://photo.xiangming.site/img/blog_logo.png"
     },
     {
-      "floor": 6,
+      "floor": 14,
       "title": "com 域名 11 月 1 日要涨价，我把续费直接拉满到了 2036 年",
       "created": "2026-10-14",
       "updated": "2026-10-14",
@@ -62,7 +134,7 @@
       "avatar": "https://butterfly.js.org/img/avatar.png"
     },
     {
-      "floor": 7,
+      "floor": 15,
       "title": "大意失荆州 — 浅谈cdn后面的源站防护",
       "created": "2026-10-14",
       "updated": "2026-10-14",
@@ -71,7 +143,7 @@
       "avatar": "https://h4ck.org.cn/wp-content/uploads/2024/02/aboutme-tuya.webp"
     },
     {
-      "floor": 8,
+      "floor": 16,
       "title": "别乱下破解软件：我亲历的一次微信盗号木马",
       "created": "2026-10-14",
       "updated": "2026-10-14",
@@ -80,7 +152,7 @@
       "avatar": "https://photo.xiangming.site/img/blog_logo.png"
     },
     {
-      "floor": 9,
+      "floor": 17,
       "title": "OpenCode 网页端新版后台如何获取 API key",
       "created": "2026-10-13",
       "updated": "2026-10-13",
@@ -89,7 +161,7 @@
       "avatar": "https://butterfly.js.org/img/avatar.png"
     },
     {
-      "floor": 10,
+      "floor": 18,
       "title": "检车",
       "created": "2026-10-13",
       "updated": "2026-10-13",
@@ -98,7 +170,7 @@
       "avatar": "https://photo.xiangming.site/img/blog_logo.png"
     },
     {
-      "floor": 11,
+      "floor": 19,
       "title": "拆东墙补西墙",
       "created": "2026-10-12",
       "updated": "2026-10-12",
@@ -107,7 +179,7 @@
       "avatar": "https://h4ck.org.cn/wp-content/uploads/2024/02/aboutme-tuya.webp"
     },
     {
-      "floor": 12,
+      "floor": 20,
       "title": "时过境迁",
       "created": "2026-10-10",
       "updated": "2026-10-10",
@@ -116,7 +188,7 @@
       "avatar": "https://h4ck.org.cn/wp-content/uploads/2024/02/aboutme-tuya.webp"
     },
     {
-      "floor": 13,
+      "floor": 21,
       "title": "我又写了个油猴脚本：一键填充博客留言信息",
       "created": "2026-10-10",
       "updated": "2026-10-10",
@@ -125,7 +197,7 @@
       "avatar": "https://photo.xiangming.site/img/blog_logo.png"
     },
     {
-      "floor": 14,
+      "floor": 22,
       "title": "博客留言自动填充更新了",
       "created": "2026-10-10",
       "updated": "2026-10-10",
@@ -134,7 +206,7 @@
       "avatar": "https://photo.xiangming.site/img/blog_logo.png"
     },
     {
-      "floor": 15,
+      "floor": 23,
       "title": "Findu APP 4.0.5  — 好友定位 位置分享",
       "created": "2026-10-09",
       "updated": "2026-10-09",
@@ -143,7 +215,7 @@
       "avatar": "https://h4ck.org.cn/wp-content/uploads/2024/02/aboutme-tuya.webp"
     },
     {
-      "floor": 16,
+      "floor": 24,
       "title": "竹子庵",
       "created": "2026-10-09",
       "updated": "2026-10-09",
@@ -152,7 +224,7 @@
       "avatar": "https://h4ck.org.cn/wp-content/uploads/2024/02/aboutme-tuya.webp"
     },
     {
-      "floor": 17,
+      "floor": 25,
       "title": "OpenLogi 上手：高性能低占用的支持多终端的本地无账号罗技驱动",
       "created": "2026-10-09",
       "updated": "2026-10-09",
@@ -161,7 +233,7 @@
       "avatar": "https://butterfly.js.org/img/avatar.png"
     },
     {
-      "floor": 18,
+      "floor": 26,
       "title": "针对mac 的验证码攻击",
       "created": "2026-10-08",
       "updated": "2026-10-08",
@@ -170,7 +242,7 @@
       "avatar": "https://h4ck.org.cn/wp-content/uploads/2024/02/aboutme-tuya.webp"
     },
     {
-      "floor": 19,
+      "floor": 27,
       "title": "国庆游记：逃离城市，听凌晨两点的鸡叫",
       "created": "2026-10-08",
       "updated": "2026-10-08",
@@ -179,7 +251,7 @@
       "avatar": "https://photo.xiangming.site/img/blog_logo.png"
     },
     {
-      "floor": 20,
+      "floor": 28,
       "title": "Apple Pay 自定义卡面教程：用 AirCard 给交通卡和银行卡换个卡面",
       "created": "2026-10-08",
       "updated": "2026-10-08",
@@ -188,7 +260,7 @@
       "avatar": "https://butterfly.js.org/img/avatar.png"
     },
     {
-      "floor": 21,
+      "floor": 29,
       "title": "好好吃饭",
       "created": "2026-10-07",
       "updated": "2026-10-07",
@@ -197,7 +269,7 @@
       "avatar": "https://h4ck.org.cn/wp-content/uploads/2024/02/aboutme-tuya.webp"
     },
     {
-      "floor": 22,
+      "floor": 30,
       "title": "低配机器也能跑的大模型 qwen3.8-flash-next-iq3_xxs",
       "created": "2026-10-07",
       "updated": "2026-10-07",
@@ -206,7 +278,7 @@
       "avatar": "https://h4ck.org.cn/wp-content/uploads/2024/02/aboutme-tuya.webp"
     },
     {
-      "floor": 23,
+      "floor": 31,
       "title": "外挂标签速查",
       "created": "2026-10-02",
       "updated": "2026-10-02",
@@ -215,7 +287,7 @@
       "avatar": "https://sdn.geekzu.org/avatar/57d8260dfb55501c37dde588e7c3852c"
     },
     {
-      "floor": 24,
+      "floor": 32,
       "title": "外挂标签速查",
       "created": "2026-10-02",
       "updated": "2026-10-02",
@@ -224,7 +296,7 @@
       "avatar": "https://sdn.geekzu.org/avatar/57d8260dfb55501c37dde588e7c3852c"
     },
     {
-      "floor": 25,
+      "floor": 33,
       "title": "Hello World · 从这里开始",
       "created": "2026-10-01",
       "updated": "2026-10-01",
@@ -233,7 +305,7 @@
       "avatar": "https://sdn.geekzu.org/avatar/57d8260dfb55501c37dde588e7c3852c"
     },
     {
-      "floor": 26,
+      "floor": 34,
       "title": "2026中秋",
       "created": "2026-09-28",
       "updated": "2026-09-28",
@@ -242,7 +314,7 @@
       "avatar": "https://photo.xiangming.site/img/blog_logo.png"
     },
     {
-      "floor": 27,
+      "floor": 35,
       "title": "最近的主题更新：粉色毛玻璃和一些小修小补",
       "created": "2026-09-25",
       "updated": "2026-09-25",
@@ -251,7 +323,7 @@
       "avatar": "https://sdn.geekzu.org/avatar/57d8260dfb55501c37dde588e7c3852c"
     },
     {
-      "floor": 28,
+      "floor": 36,
       "title": "Stellar 为什么没能火起来",
       "created": "2026-08-14",
       "updated": "2026-09-22",
@@ -260,7 +332,7 @@
       "avatar": "https://sdn.geekzu.org/avatar/57d8260dfb55501c37dde588e7c3852c"
     },
     {
-      "floor": 29,
+      "floor": 37,
       "title": "在混乱中建立秩序：Stellar 产品设计与工程重构复盘",
       "created": "2025-10-13",
       "updated": "2026-09-22",
@@ -269,7 +341,7 @@
       "avatar": "https://sdn.geekzu.org/avatar/57d8260dfb55501c37dde588e7c3852c"
     },
     {
-      "floor": 30,
+      "floor": 38,
       "title": "OpenClaw 接管你的油猴脚本：让 AI 直接读改网页脚本，不用再复制粘贴",
       "created": "2026-09-14",
       "updated": "2026-09-14",
@@ -278,7 +350,7 @@
       "avatar": "https://butterfly.js.org/img/avatar.png"
     },
     {
-      "floor": 31,
+      "floor": 39,
       "title": "行至釜山",
       "created": "2026-09-14",
       "updated": "2026-09-14",
@@ -287,7 +359,7 @@
       "avatar": "https://avatars.githubusercontent.com/u/108462724?v=4"
     },
     {
-      "floor": 32,
+      "floor": 40,
       "title": "为 iPhone Duo 做设计：苹果官方设计原则全解读",
       "created": "2026-09-11",
       "updated": "2026-09-11",
@@ -296,7 +368,7 @@
       "avatar": "https://butterfly.js.org/img/avatar.png"
     },
     {
-      "floor": 33,
+      "floor": 41,
       "title": "看到了淘宝闪购的AI评论，引发了我的思考",
       "created": "2026-09-11",
       "updated": "2026-09-11",
@@ -305,7 +377,7 @@
       "avatar": "https://butterfly.js.org/img/avatar.png"
     },
     {
-      "floor": 34,
+      "floor": 42,
       "title": "如何在网页插入 livephoto ？实况照片 PVT 在线生成、动态JPG生成工具与嵌入工具",
       "created": "2026-09-09",
       "updated": "2026-09-09",
@@ -314,7 +386,7 @@
       "avatar": "https://butterfly.js.org/img/avatar.png"
     },
     {
-      "floor": 35,
+      "floor": 43,
       "title": "连续两个晚上做梦笑醒",
       "created": "2026-02-26",
       "updated": "2026-09-09",
@@ -323,7 +395,7 @@
       "avatar": "https://sdn.geekzu.org/avatar/57d8260dfb55501c37dde588e7c3852c"
     },
     {
-      "floor": 36,
+      "floor": 44,
       "title": "微信小程序二维码真机不显示：从 `TextEncoder is not defined` 到跨端兼容方案",
       "created": "2026-09-04",
       "updated": "2026-09-04",
